@@ -1,0 +1,69 @@
+%\documentclass[a4paper,10pt,fleqn]{PhDthesisPSnPDF}
+\documentclass[a4paper,11pt,fleqn]{report}
+\usepackage{epsf}
+\linespread{1.1}    
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{multirow}
+\usepackage{hyperr	ef}
+\usepackage{float}
+\usepackage{fancyhdr}
+\restylefloat{table}
+\usepackage[style=authoryear,backend=bibtex8]{biblatex}
+\usepackage[tableposition=top]{caption}
+\addbibresource{0144266.bib}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\lstset{frame=tb,
+  language=Java,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=left,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true
+  tabsize=3
+}
+\setlength{\textheight}{8.5in}
+\setlength{\oddsidemargin}{0.1in}
+\setlength{\evensidemargin}{0.1in}
+\setlength{\textwidth}{5.50in}
+\setlength{\topmargin}{0.0in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+%\setlength{\parindent}{12mm}
+% paragraph indent
+\setlength{\parindent}{0pt}
+% spacing between paragraphs
+\setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
+
+
+%\usepackage{thesis}
+\pagestyle{plain}
+
+\begin{document}
+\title{Software Quality  \\ Reflective Journal}
+\author{Chris O'Brien \\ 0144266}
+%\date{}
+\maketitle
+   
+
+%
+% Table Of Contents
+%
+\tableofcontents
+
+\include{journal}
+\printbibliography
+\end{document}   
+
+
