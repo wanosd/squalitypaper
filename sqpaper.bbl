@@ -1,0 +1,158 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{eumedicaldevice}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gallagher}{G.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {BBC}%
+  }
+  \strng{namehash}{GJ1}
+  \strng{fullhash}{GJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{G}
+  \field{title}{PIP breast implants: European Commission says reform needed}
+  \verb{url}
+  \verb http://www.bbc.com/news/health-16543321
+  \endverb
+  \list{location}{1}{%
+    {United Kingom}%
+  }
+  \field{year}{2012}
+  \field{urlday}{25}
+  \field{urlmonth}{04}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{gibbs1994software}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gibbs}{G.}%
+     {W~Wayt}{W.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GWW1}
+  \strng{fullhash}{GWW1}
+  \field{labelyear}{1994}
+  \field{sortinit}{G}
+  \field{number}{3}
+  \field{pages}{72\bibrangedash 81}
+  \field{title}{Software's chronic crisis}
+  \field{volume}{271}
+  \field{journaltitle}{Scientific American}
+  \field{year}{1994}
+\endentry
+
+\entry{pbl}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kilroy}{K.}%
+     {DA}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {BMJ Publishing Group Ltd}%
+    {the British Association for Accident \& Emergency Medicine}%
+  }
+  \strng{namehash}{KD1}
+  \strng{fullhash}{KD1}
+  \field{labelyear}{2004}
+  \field{sortinit}{K}
+  \field{number}{4}
+  \field{pages}{411\bibrangedash 413}
+  \field{title}{Problem based learning}
+  \field{volume}{21}
+  \field{journaltitle}{Emergency medicine journal}
+  \field{year}{2004}
+\endentry
+
+\entry{regulation}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Kramer}{K.}%
+     {Daniel~B}{D.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Xu}{X.}%
+     {Shuai}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kesselheim}{K.}%
+     {Aaron~S}{A.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mass Medical Soc}%
+  }
+  \strng{namehash}{KDBXSKAS1}
+  \strng{fullhash}{KDBXSKAS1}
+  \field{labelyear}{2012}
+  \field{sortinit}{K}
+  \field{number}{9}
+  \field{pages}{848\bibrangedash 855}
+  \field{title}{Regulation of medical devices in the United States and European
+  Union}
+  \field{volume}{366}
+  \field{journaltitle}{New England journal of medicine}
+  \field{year}{2012}
+\endentry
+
+\entry{mdfail}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wallace}{W.}%
+     {Dolores~R}{D.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kuhn}{K.}%
+     {D~Richard}{D.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific}%
+  }
+  \strng{namehash}{WDRKDR1}
+  \strng{fullhash}{WDRKDR1}
+  \field{labelyear}{2001}
+  \field{sortinit}{W}
+  \field{number}{04}
+  \field{pages}{351\bibrangedash 371}
+  \field{title}{Failure modes in medical device software: an analysis of 15
+  years of recall data}
+  \field{volume}{8}
+  \field{journaltitle}{International Journal of Reliability, Quality and Safety
+  Engineering}
+  \field{year}{2001}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
