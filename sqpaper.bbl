@@ -88,6 +88,39 @@
   \field{year}{2004}
 \endentry
 
+\entry{home}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Korhonen}{K.}%
+     {Ilkka}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Parkka}{P.}%
+     {Juha}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Van~Gils}{V.~G.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{KIPJVGM1}
+  \strng{fullhash}{KIPJVGM1}
+  \field{labelyear}{2003}
+  \field{sortinit}{K}
+  \field{number}{3}
+  \field{pages}{66\bibrangedash 73}
+  \field{title}{Health monitoring in the home of the future}
+  \field{volume}{22}
+  \field{journaltitle}{Engineering in Medicine and Biology Magazine, IEEE}
+  \field{year}{2003}
+\endentry
+
 \entry{regulation}{article}{}
   \name{author}{3}{}{%
     {{}%
@@ -120,6 +153,150 @@
   \field{volume}{366}
   \field{journaltitle}{New England journal of medicine}
   \field{year}{2012}
+\endentry
+
+\entry{landers}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Landers}{L.}%
+     {Steven~H.}{S.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cleveland Clinic}%
+  }
+  \strng{namehash}{LSH1}
+  \strng{fullhash}{LSH1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{number}{e-Suppl 1}
+  \field{pages}{e\bibrangedash S27}
+  \field{title}{The case for “connected health” at home}
+  \field{volume}{80}
+  \field{journaltitle}{Cleveland Clinic Journal of Medicine}
+  \field{year}{2013}
+\endentry
+
+\entry{usability2}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nielsen}{N.}%
+     {Jakob}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{labelyear}{1994}
+  \field{sortinit}{N}
+  \field{title}{Usability engineering}
+  \field{year}{1994}
+\endentry
+
+\entry{usability1}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nielsen}{N.}%
+     {Jakob}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{labelyear}{2003}
+  \field{sortinit}{N}
+  \field{title}{Usability 101: Introduction to usability}
+  \field{year}{2003}
+\endentry
+
+\entry{env}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {O'Neill}{O.}%
+     {Sonja~A}{S.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nugent}{N.}%
+     {Chris~D}{C.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Donnelly}{D.}%
+     {Mark~P}{M.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McCullagh}{M.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McLaughlin}{M.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOS Press}%
+  }
+  \strng{namehash}{OSA+1}
+  \strng{fullhash}{OSANCDDMPMPMJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{O}
+  \field{number}{3}
+  \field{pages}{151\bibrangedash 167}
+  \field{title}{Evaluation of connected health technology}
+  \field{volume}{20}
+  \field{journaltitle}{Technology and Health Care}
+  \field{year}{2012}
+\endentry
+
+\entry{nursesworking}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Rogers}{R.}%
+     {Ann~E}{A.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hwang}{H.}%
+     {Wei-Ting}{W.-T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scott}{S.}%
+     {Linda~D}{L.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Aiken}{A.}%
+     {Linda~H}{L.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dinges}{D.}%
+     {David~F}{D.~F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Health Affairs}%
+  }
+  \strng{namehash}{RAE+1}
+  \strng{fullhash}{RAEHWTSLDALHDDF1}
+  \field{labelyear}{2004}
+  \field{sortinit}{R}
+  \field{number}{4}
+  \field{pages}{202\bibrangedash 212}
+  \field{title}{The working hours of hospital staff nurses and patient safety}
+  \field{volume}{23}
+  \field{journaltitle}{Health affairs}
+  \field{year}{2004}
 \endentry
 
 \entry{mdfail}{article}{}
