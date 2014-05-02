@@ -16,6 +16,178 @@
   {}
 \endgroup
 
+\entry{chg}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Accenture}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Accenture}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2012}
+  \field{sortinit}{A}
+  \field{title}{Connected Health: The Drive to Integrated Healthcare Delivery}
+  \verb{url}
+  \verb http://www.himss.eu/sites/default/files/Accenture-Connected-Health-Glob
+  \verb al-Report-Final-Web.pdf
+  \endverb
+  \field{year}{2012}
+  \field{urlday}{30}
+  \field{urlmonth}{04}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{amazon}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {BBC}{B.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {BBC}%
+  }
+  \strng{namehash}{B1}
+  \strng{fullhash}{B1}
+  \field{labelyear}{2010}
+  \field{sortinit}{B}
+  \field{title}{Amazon knocked offline by 'hardware failure'}
+  \verb{url}
+  \verb http://www.bbc.com/news/technology-11980125
+  \endverb
+  \list{location}{1}{%
+    {United Kingdom}%
+  }
+  \field{year}{2010}
+  \field{urlday}{27}
+  \field{urlmonth}{04}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{risk}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Burton}{B.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McCaffery}{M.}%
+     {Fergal}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Richardson}{R.}%
+     {Ita}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {ACM}%
+  }
+  \strng{namehash}{BJMFRI1}
+  \strng{fullhash}{BJMFRI1}
+  \field{labelyear}{2006}
+  \field{sortinit}{B}
+  \field{booktitle}{Proceedings of the 2006 international workshop on Software
+  quality}
+  \field{pages}{3\bibrangedash 8}
+  \field{title}{A risk management capability model for use in medical device
+  companies}
+  \field{year}{2006}
+\endentry
+
+\entry{isec}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {DataProtectionCommissioner}{D.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Office of the Data Protectiton Commissioner}%
+  }
+  \strng{namehash}{D1}
+  \strng{fullhash}{D1}
+  \field{labelyear}{2012}
+  \field{sortinit}{D}
+  \field{title}{The Data Protection Rules}
+  \verb{url}
+  \verb http://www.dataprotection.ie/ViewDoc.asp?fn=/documents/responsibilities
+  \verb /3bii.htm&CatID=54&m=y
+  \endverb
+  \list{location}{1}{%
+    {Ireland}%
+  }
+  \field{year}{2012}
+  \field{urlday}{30}
+  \field{urlmonth}{04}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{recall}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {FDA}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Food}%
+    {Drug Association}%
+  }
+  \strng{namehash}{F1}
+  \strng{fullhash}{F1}
+  \field{labelyear}{2012}
+  \field{sortinit}{F}
+  \field{title}{What is a Medical Device Recall?}
+  \verb{url}
+  \verb http://www.fda.gov/MedicalDevices/Safety/ListofRecalls/ucm329946.htm
+  \endverb
+  \field{year}{2012}
+  \field{urlday}{20}
+  \field{urlmonth}{04}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{pacemaker}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Franzen}{F.}%
+     {C}{C}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The Verge[Online]}%
+  }
+  \strng{namehash}{FC1}
+  \strng{fullhash}{FC1}
+  \field{labelyear}{2013}
+  \field{sortinit}{F}
+  \field{title}{Dick Cheney had the wireless disabled on his pacemaker to avoid
+  risk of terrorist tampering}
+  \verb{url}
+  \verb http://www.theverge.com/2013/10/21/4863872/dick-cheney-pacemaker-wirele
+  \verb ss-disabled-2007.
+  \endverb
+  \list{location}{1}{%
+    {United Kingdom}%
+  }
+  \field{year}{2013}
+  \field{urlday}{01}
+  \field{urlmonth}{05}
+  \field{urlyear}{2014}
+\endentry
+
 \entry{eumedicaldevice}{online}{}
   \name{author}{1}{}{%
     {{}%
@@ -36,7 +208,7 @@
   \verb http://www.bbc.com/news/health-16543321
   \endverb
   \list{location}{1}{%
-    {United Kingom}%
+    {United Kingdom}%
   }
   \field{year}{2012}
   \field{urlday}{25}
@@ -62,6 +234,23 @@
   \field{volume}{271}
   \field{journaltitle}{Scientific American}
   \field{year}{1994}
+\endentry
+
+\entry{interview}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {JH}{J.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{J1}
+  \strng{fullhash}{J1}
+  \field{labelyear}{2014}
+  \field{sortinit}{J}
+  \field{howpublished}{private interview}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{pbl}{article}{}
@@ -178,6 +367,45 @@
   \field{year}{2013}
 \endentry
 
+\entry{privacy}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {McGraw}{M.}%
+     {Deven}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dempsey}{D.}%
+     {James~X}{J.~X.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Harris}{H.}%
+     {Leslie}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goldman}{G.}%
+     {Janlori}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Health Affairs}%
+  }
+  \strng{namehash}{MD+1}
+  \strng{fullhash}{MDDJXHLGJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{416\bibrangedash 427}
+  \field{title}{Privacy as an enabler, not an impediment: building trust into
+  health information exchange}
+  \field{volume}{28}
+  \field{journaltitle}{Health Affairs}
+  \field{year}{2009}
+\endentry
+
 \entry{usability2}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -256,6 +484,47 @@
   \field{year}{2012}
 \endentry
 
+\entry{openssl}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {OpenSSL}{O.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {www.openssl.org}%
+  }
+  \strng{namehash}{O1}
+  \strng{fullhash}{O1}
+  \field{labelyear}{2014}
+  \field{sortinit}{O}
+  \field{title}{TLS heartbeat read overrun}
+  \verb{url}
+  \verb https://www.openssl.org/news/secadv_20140407.txt
+  \endverb
+  \field{year}{2014}
+  \field{urlday}{20}
+  \field{urlmonth}{04}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{data}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Parliament}{P.}%
+     {Irish}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PI1}
+  \strng{fullhash}{PI1}
+  \field{labelyear}{1998}
+  \field{sortinit}{P}
+  \field{title}{Data protection act of 1998}
+  \field{year}{1998}
+\endentry
+
 \entry{nursesworking}{article}{}
   \name{author}{5}{}{%
     {{}%
@@ -299,6 +568,61 @@
   \field{year}{2004}
 \endentry
 
+\entry{shroff}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Shroff}{S.}%
+     {Vispi}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reid}{R.}%
+     {Louise}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Richardson}{R.}%
+     {Ita}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SVRLRI1}
+  \strng{fullhash}{SVRLRI1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{title}{A Proposed Framework for Software Quality in the Healthcare and
+  Medical Industry}
+  \field{year}{2011}
+\endentry
+
+\entry{amazon1}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wainewright}{W.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ZDNET}%
+  }
+  \strng{namehash}{WP1}
+  \strng{fullhash}{WP1}
+  \field{labelyear}{2011}
+  \field{sortinit}{W}
+  \field{title}{Lightning strike zaps EC2 Ireland}
+  \verb{url}
+  \verb http://www.zdnet.com/blog/saas/lightning-strike-zaps-ec2-ireland/1382
+  \endverb
+  \list{location}{1}{%
+    {United Kingdom}%
+  }
+  \field{year}{2011}
+  \field{urlday}{01}
+  \field{urlmonth}{05}
+  \field{urlyear}{2014}
+\endentry
+
 \entry{mdfail}{article}{}
   \name{author}{2}{}{%
     {{}%
@@ -327,6 +651,84 @@
   \field{journaltitle}{International Journal of Reliability, Quality and Safety
   Engineering}
   \field{year}{2001}
+\endentry
+
+\entry{wilcox}{inproceedings}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Wilcox}{W.}%
+     {Adam}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kuperman}{K.}%
+     {Gilad}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dorr}{D.}%
+     {David~A}{D.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hripcsak}{H.}%
+     {George}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Narus}{N.}%
+     {Scott~P}{S.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thornton}{T.}%
+     {Sidney~N}{S.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Evans}{E.}%
+     {R~Scott}{R.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {American Medical Informatics Association}%
+  }
+  \strng{namehash}{WA+1}
+  \strng{fullhash}{WAKGDDAHGNSPTSNERS1}
+  \field{labelyear}{2006}
+  \field{sortinit}{W}
+  \field{booktitle}{AMIA Annual Symposium Proceedings}
+  \field{pages}{814}
+  \field{title}{Architectural strategies and issues with health information
+  exchange}
+  \field{volume}{2006}
+  \field{year}{2006}
+\endentry
+
+\entry{wired}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zetter}{Z.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {www.wired.com}%
+  }
+  \strng{namehash}{ZK1}
+  \strng{fullhash}{ZK1}
+  \field{labelyear}{2014}
+  \field{sortinit}{Z}
+  \field{title}{It’s Insanely Easy to Hack Hospital Equipment}
+  \verb{url}
+  \verb http://www.wired.com/2014/04/hospital-equipment-vulnerable/.
+  \endverb
+  \field{year}{2014}
+  \field{urlday}{25}
+  \field{urlmonth}{04}
+  \field{urlyear}{2014}
 \endentry
 
 \lossort
